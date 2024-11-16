@@ -168,6 +168,7 @@ PRODUCT_PACKAGES += \
     PowerOffAlarmOverlayMT6895 \
     TelephonyOverlayMT6895 \
     SettingsOverlayMT6895 \
+    SettingsProviderResOverlayMT6895 \
     SystemUIOverlayMT6895 \
     WifiResOverlayMT6895
 
